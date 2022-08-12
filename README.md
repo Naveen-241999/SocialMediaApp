@@ -10,3 +10,25 @@ Using our SocialMedia web application, user will able to interact with new peopl
 - MySQL
 - Maven
 - JUnit
+
+# Features
+1. User can login and register.
+2. User can view all profiles available on this application.
+3. User can delete his profile.
+4. User can create a post on his timeline.
+5. User can see all post created by himself as well as other users.
+6. User can also like the post on his timeline as well as other user's timeline.
+7. User can search any particular profile also.
+8. User can logout his profile.
+
+
+# My Roles
+- Understood the project requirements from clients.
+- Prepared estimates and deadlines for the projects.
+- Developed user module for sign in & register in this app
+- Collected data from users and stored in MySQL.
+- Implemented CRUD operations to make admin role easier.
+- Developed, implemented, and improved the source codes.
+- Monitored the progress of the project.
+- Developed innovative solutions to critical problem.
+- Implemented test classes for testing.
